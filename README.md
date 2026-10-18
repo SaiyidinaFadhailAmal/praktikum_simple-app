@@ -2,3 +2,4 @@
 Tes otomatisasi Jenkins
 ![Uploading image.png…]()
 Testing
+test
